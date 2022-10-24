@@ -118,7 +118,7 @@ function getStringWinner($integerWinner, $integerComputerOption) {
  * 
  * @access public
  * 
- * @throws \RangeException IF the $integerComputerOption is invaid an non empty
+ * @throws \RangeException If the $integerComputerOption is invaid an non empty
  * 
  * @param int $integerComputerOption The integer computer option
  * 
